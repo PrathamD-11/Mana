@@ -8,6 +8,7 @@ This project demonstrates how computational tools can provide deeper insights in
 
 ---
 ##  Project Tree
+```
 Mana/
 ├── README.md                  # Project overview
 ├── LICENSE                    # MIT license
@@ -34,6 +35,7 @@ Mana/
 ├── final_presentation.pdf # BINF6310 presentation
 ├── reference_paper.pdf    # Nature Communications paper
 └── reproducibility_notes.md
+```
 
 ---
 
