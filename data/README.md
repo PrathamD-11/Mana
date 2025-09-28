@@ -5,7 +5,7 @@ The raw data are not stored in this repository due to size limits. Instead, down
 
 ---
 
-## 🔹 Public Data Sources
+## Public Data Sources
 
 - **RNA-seq (cDNA and direct RNA sequencing)**  
   BioProject: [PRJNA856796](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA856796)
@@ -21,7 +21,7 @@ The raw data are not stored in this repository due to size limits. Instead, down
 
 ---
 
-## 🔹 Usage
+## Usage
 
 1. Download the datasets from the above links.  
 2. Place the raw FASTQ/BAM files inside this `raw/` folder.  
